@@ -1,6 +1,7 @@
 # Summary
 
+* [Introduction](README.md)
 * [Introduction](introduction.md)
-   * Subintroduction
+   * [Subintroduction](intro/subintroduction.md)
    * Blabla
 

@@ -1,4 +1,4 @@
 # Summary
 
-* [Level 1](introduction.md)
+* [Introduction](introduction.md)
 
